@@ -1,9 +1,9 @@
-# CSS Flexbox Essentials Lab
+# CSS Flexbox Positioning Lab
 
 ## Problem Statement
 
 ## Objectives
 
-1.  Use CSS to create a flex display container
+1.  Use CSS to position and realign the examples provided
 
-#### Adding Flex Properties to a Container
+#### Align and Position Flex Elements
